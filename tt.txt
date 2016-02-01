@@ -2,3 +2,10 @@ ttt
 int main()
 1111111111111111
 retun 0000;
+int amafsfsdf
+dfsfww
+fsafasf
+aew
+fasfsafwef
+fawwfafwef
+faeeawfaf
